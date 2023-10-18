@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beast-prince&show_icons=true&locale=en" alt="beast-prince" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beast-prince&" alt="beast-prince" /></p>
+
+[![An image of @beast_prince's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beast_prince)](https://holopin.io/@beast_prince)
